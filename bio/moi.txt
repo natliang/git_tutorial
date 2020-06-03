@@ -1,3 +1,4 @@
 Homo sapiens
 Fusarium graminearum
-Bacillus velezensis
+Bacillus amyloliquefaciens
+Fusarium oxysporum
