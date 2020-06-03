@@ -1,1 +1,2 @@
-read.csv(this)
+table<-read.csv(this)
+head(table)
